@@ -1,4 +1,5 @@
-﻿using SporSalonuTakip.Data;
+
+using SporSalonuTakip.Data;
 using SporSalonuTakip.Menus;
 
 namespace SporSalonuTakip;
@@ -14,3 +15,4 @@ internal class Program
         MainMenu.Show();
     }
 }
+
